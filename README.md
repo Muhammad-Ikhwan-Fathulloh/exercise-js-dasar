@@ -1,5 +1,8 @@
 # exercise-js-dasar
 exercise js dasar
+<br>
+Nama : Muhammad Ikhwan Fathulloh
+<br>
 
 <b>Perbedaan dari procedural, conditional, da looping</b>
 <br>
