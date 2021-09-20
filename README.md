@@ -6,7 +6,7 @@ Nama : Muhammad Ikhwan Fathulloh
 
 <b>Perbedaan dari procedural, conditional, da looping</b>
 <br>
-<p>procedural adalah prosedur dari sebuah variabel dalam melakukan proses, lalu conditional adalah kondisi dari argumen (seperti sebab akibat), lalu looping adalah kondisi perulangan dari sebuah argumen</p>
+<p>procedural adalah prosedur dari sebuah fungsi yang sudah ada, lalu conditional adalah kondisi dari argumen (seperti sebab akibat), lalu looping adalah kondisi perulangan dari sebuah argumen</p>
 
 <b>Kapan menggunakan looping</b>
 <br>
